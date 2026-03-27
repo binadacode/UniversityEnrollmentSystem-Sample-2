@@ -11,7 +11,6 @@ This project implements a dual-interface management system (CLI + GUI) for unive
 ## 🎥 Demo
 
 ![University Enrollment System GUI](university_enrollment_gui_mockup.png)
-*Above: A conceptual preview of the integrated Swing GUI with dynamic data binding.*
 
 ---
 
